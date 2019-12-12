@@ -41,6 +41,18 @@ It is a modular system interface for WebAssembly, focused on security and portab
 
 ---
 
+# Developer stability
+
+* We (standards engineers) are going to make changes to WASI
+
+* We (implementers) are going to support old editions of WASI
+
+* We will balance the needs of those groups - design with polyfills in mind.
+
+* Witx will help!
+
+---
+
 # What is witx?
 
 ```scheme
@@ -195,4 +207,5 @@ Peter Huene
 Jakub Konka
 Marcin Mielniczuk
 Till Schneidereit
+Luke Wagner
 ```
